@@ -1,0 +1,13 @@
+Total bytecount:8571
+Files list:
+----------------
+challenge_solution.py
+challeng_mine.py
+files_finished.py
+files_start.py
+ospathutils_finished.py
+ospathutils_start.py
+results
+shell_finished.py
+shell_start.py
+textfile.txt.bak
